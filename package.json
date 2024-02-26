@@ -1,0 +1,22 @@
+{
+  "name": "cypress_study",
+  "version": "1.0.0",
+  "description": "Cypress Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielFranc0/cypress_study.git"
+  },
+  "author": "Gabriel Franco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielFranc0/cypress_study/issues"
+  },
+  "homepage": "https://github.com/GabrielFranc0/cypress_study#readme",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}
